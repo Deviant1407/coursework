@@ -11,3 +11,5 @@
 - план (в доске)
 - распечатанный документ (пояснительная записка) и сайт
 - защита  (презентация, видео, новелла и демонстрация работы)
+<br>
+[Курсач](https://docs.google.com/document/d/1A-4M-D9yJOZs8UoMVCT7LkAoui95QYgUGn9CmSt9t3o/edit?usp=sharing)
