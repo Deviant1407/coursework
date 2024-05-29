@@ -1,0 +1,27 @@
+* {
+    font-family: Calibri, serif;
+    background-color: antiquewhite;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: aquamarine;
+}
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+.error {
+    color: red;
+}
