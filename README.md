@@ -13,3 +13,5 @@
 - защита  (презентация, видео, новелла и демонстрация работы)
 ____
 [Курсач](https://drive.google.com/drive/folders/1JoT7SHetVwSOSgB-naNBH_1yFtRxZYgg?usp=sharing)
+<br>
+[Сайт для техникума](https://tada-shop.ru)
